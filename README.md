@@ -4,4 +4,4 @@
 🎂 19 ans  <br>
 📍 Montpellier <br>
 🧑‍🎓 2 ème année DUT informatique <br>
-💻 Futur Développeur web <br>
+💻 Futur Développeur <br>
