@@ -3,5 +3,5 @@
 👨 Matthias GOUPIL <br>
 🎂 19 ans  <br>
 📍 Montpellier <br>
-🧑‍🎓 2 ème année DUT informatique Cherche Alternance<br>
-💻 Développeur Web<br>
+🧑‍🎓 Licence Pro APIDAE | Alternance <br>
+💻 Développeur Web en Alternance chez Smile<br>
