@@ -3,5 +3,5 @@
 👨 Matthias GOUPIL <br>
 🎂 20 ans  <br>
 📍 Montpellier <br>
-🧑‍🎓 Licence Pro APIDAE | Alternance <br>
+🧑‍🎓 Msc Epitech Architecte logiciel, développeur d'application | Alternance <br>
 💻 Développeur Web en Alternance chez Smile<br>
