@@ -3,5 +3,5 @@
 👨 Matthias GOUPIL <br>
 🎂 21 ans  <br>
 📍 Montpellier <br>
-🧑‍🎓 Msc Epitech Architecte logiciel, développeur d'application option IA et Big Data | Alternance <br>
+🧑‍🎓 Msc Epitech Architecte logiciel, développeur d'application spécialité IA et Big Data | Alternance <br>
 💻 Développeur Web en Alternance chez Smile<br>
